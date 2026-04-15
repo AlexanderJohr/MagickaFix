@@ -1,8 +1,7 @@
 # Magicka Fixes v1.5
-Releasing soon 4/22/25
-
-Follow this twitch streamer:
-https://m.twitch.tv/ror1x_/home
+We finally solved a decent amount of OOM problems
+Sorry this took so long to release everybody.
+Please Test and report back in Github Issues.
 
 
 # Magicka Fixes v1.4
